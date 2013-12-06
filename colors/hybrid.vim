@@ -105,7 +105,7 @@ else
   else
     let s:foreground = "250"
     let s:selection  = "237"
-    let s:line       = "235"
+    let s:line       = "236"
     let s:comment    = "243"
     let s:red        = "167"
     let s:orange     = "173"
